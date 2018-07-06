@@ -1,0 +1,10 @@
+/**Created by Ken Chang 04/07/2018 for Pukunui Technology**/
+/**Ticket number BUW-448702**/
+
+1. This codes will detect the module completion date in each courses, and insert the biggest completion date to the simplecertificate PDF file.
+
+2. This code will get the specific user info field (ACRRMNumber) and insert into PDF file. 
+
+Please use Ticket ID "BUW-448702" or "Changes by Pukunui" as your search resource in those path below
+/home/ken/public_html/mod/simplecertificate/locallib.php
+/home/ken/public_html/mod/simplecertificate/lang/en/simplecertificate.php
